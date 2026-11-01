@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Jesús Cano Moya</h1>
 
-<!--
-**jcanomoya/jcanomoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Final-year AI Engineering student at the <b>Universidad de Alicante</b><br/>
+  Decision Science · Data Analytics · Applied Machine Learning
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-ENLACE-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jesuscanomoya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I design predictive models and data pipelines to optimize resources, assess risk and understand performance.
+>
+> I enjoy applying data science to real problems, especially where it can help people make better decisions.
+
+---
+
+## 🛠️ Stack
+
+| Modeling | Explainability & Fairness | Data Engineering |
+|---|---|---|
+| `Python` `SQL` | `SHAP` | `Airflow` `PySpark` `MinIO` |
+| `scikit-learn` `LightGBM` | `Fairlearn` | `Pentaho (PDI)` `Docker` |
+| `XGBoost` `PyTorch` | | `Knowledge Graphs (RDF)` |
+
+---
+
+## 📂 Core Portfolio
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [hmda-fairness-audit](https://github.com/TU-USUARIO/TU-REPO-HIPOTECAS)
+Mortgage risk model on 283K New York applications, with bias mitigation using Fairlearn and SHAP. Racial approval gap cut from 18.4 to 13.7 pp.
+
+`LightGBM` `Fairlearn` `SHAP`
+
+</td>
+<td width="50%" valign="top">
+
+### [crop-water-semantic-analysis](https://github.com/TU-USUARIO/TU-REPO-AGUA)
+ETL and Knowledge Graph (Schema.org + Wikidata) to analyze agricultural water use and costs in the Valencian Community.
+
+`Pentaho` `RDF` `Wikidata`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+* **BSc Thesis:** data-driven performance models for team sports.
+* **Research:** about to start extracurricular research work in a university research group linked to a handball federation, collaborating in sports research.
+* **Learning:** predictive modeling and applied sports analytics.
+
+---
+
+## 📬 Contact
+
+Open to opportunities in Data Analytics and Decision Science, across industries and sport.  
+[LinkedIn](https://www.linkedin.com/in/TU-ENLACE-AQUI) · [jesuscanomoya@gmail.com](mailto:jesuscanomoya@gmail.com)
