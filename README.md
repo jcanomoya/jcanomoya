@@ -32,7 +32,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [hmda-fairness-audit](https://github.com/TU-USUARIO/TU-REPO-HIPOTECAS)
+### [hmda-fairness-audit](https://github.com/jcanomoya/ny-mortgage-fairness-audit)
 Mortgage risk model on 283K New York applications, with bias mitigation using Fairlearn and SHAP. Racial approval gap cut from 18.4 to 13.7 pp.
 
 `LightGBM` `Fairlearn` `SHAP`
@@ -40,7 +40,7 @@ Mortgage risk model on 283K New York applications, with bias mitigation using Fa
 </td>
 <td width="50%" valign="top">
 
-### [crop-water-semantic-analysis](https://github.com/TU-USUARIO/TU-REPO-AGUA)
+### [crop-water-semantic-analysis](https://github.com/jcanomoya/crop-water-semantic-analysis)
 ETL and Knowledge Graph (Schema.org + Wikidata) to analyze agricultural water use and costs in the Valencian Community.
 
 `Pentaho` `RDF` `Wikidata`
