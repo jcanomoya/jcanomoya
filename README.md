@@ -1,11 +1,11 @@
-<h1 align="center">Jesús Cano Moya</h1>
+<h1>Jesús Cano Moya</h1>
 
-<p align="center">
+<p>
   Final-year AI Engineering student at the <b>Universidad de Alicante</b><br/>
   Decision Science · Data Analytics · Applied Machine Learning
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/TU-ENLACE-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jesuscanomoya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
