@@ -61,5 +61,5 @@ ETL and Knowledge Graph (Schema.org + Wikidata) to analyze agricultural water us
 
 ## 📬 Contact
 
-Open to opportunities in Data Analytics and Decision Science, across industries and sport.  
-[LinkedIn](https://www.linkedin.com/in/TU-ENLACE-AQUI) · [jesuscanomoya@gmail.com](mailto:jesuscanomoya@gmail.com)
+Open to opportunities in Data Analytics, ML Applied and Decision Science, across industries and sport.  
+[LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-cano-moya-756359426/) · [jesuscanomoya@gmail.com](mailto:jesuscanomoya@gmail.com)
