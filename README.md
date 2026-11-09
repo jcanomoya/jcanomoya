@@ -20,7 +20,7 @@
 
 | Modeling | Explainability & Fairness | Data Engineering |
 |---|---|---|
-| `Python` `SQL` | `SHAP` | `Airflow` `PySpark` `MinIO` |
+| `Python` `SQL` | `SHAP` | `PySpark` |
 | `scikit-learn` `LightGBM` | `Fairlearn` | `Pentaho (PDI)` `Docker` |
 | `XGBoost` `PyTorch` | | `Knowledge Graphs (RDF)` |
 
