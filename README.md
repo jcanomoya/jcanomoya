@@ -2,38 +2,40 @@
 
 <p>
   Final-year AI Engineering student at the <b>Universidad de Alicante</b><br/>
-  Decision Science · Data Analytics · Applied Machine Learning
+  Statistics · Data Science · Machine Learning
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/TU-ENLACE-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-cano-moya-756359426/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jesuscanomoya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-> I design predictive models and data pipelines to optimize resources, assess risk and understand performance.
->
-> I enjoy applying data science to real problems, especially where it can help people make better decisions.
+> I'm interested in statistical modelling and rigorous model evaluation: leakage-free validation, fairness and explainability.
 
 ---
 
 ## 🛠️ Stack
 
-| Modeling | Explainability & Fairness | Data Engineering |
+| Modeling & Analysis | Explainability & Fairness | Data Engineering |
 |---|---|---|
-| `Python` `SQL` | `SHAP` | `PySpark` |
-| `scikit-learn` `LightGBM` | `Fairlearn` | `Pentaho (PDI)` `Docker` |
-| `XGBoost` `PyTorch` | | `Knowledge Graphs (RDF)` |
+| `Python` `pandas` `NumPy` | `SHAP` | `Pentaho (PDI)` |
+| `scikit-learn` `LightGBM` `XGBoost` | `Fairlearn` | `RDF` `SPARQL` |
+| `matplotlib` `seaborn` `Jupyter` | | `Git` `LaTeX` |
+
+Used in coursework: `SQL` `PyTorch` `Docker`
 
 ---
 
-## 📂 Core Portfolio
+## 📂 Projects
+
+Academic team projects, 2025/26.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [hmda-fairness-audit](https://github.com/jcanomoya/ny-mortgage-fairness-audit)
-Mortgage risk model on 283K New York applications, with bias mitigation using Fairlearn and SHAP. Racial approval gap cut from 18.4 to 13.7 pp.
+### [ny-mortgage-fairness-audit](https://github.com/jcanomoya/ny-mortgage-fairness-audit)
+Mortgage approval model on 283K New York applications (HMDA 2024). An Equalized Odds constraint cuts the TPR gap by 68% and the racial approval gap from 18.4 to 13.7 pp, at the cost of ROC-AUC dropping from 0.887 to 0.780.
 
 `LightGBM` `Fairlearn` `SHAP`
 
@@ -41,9 +43,9 @@ Mortgage risk model on 283K New York applications, with bias mitigation using Fa
 <td width="50%" valign="top">
 
 ### [crop-water-semantic-analysis](https://github.com/jcanomoya/crop-water-semantic-analysis)
-ETL and Knowledge Graph (Schema.org + Wikidata) to analyze agricultural water use and costs in the Valencian Community.
+ETL pipeline that turns public agricultural data from the Valencian Community into an RDF knowledge graph (Schema.org + Wikidata), validated with SPARQL, with a cost heatmap and a crop ranking by province.
 
-`Pentaho` `RDF` `Wikidata`
+`Pentaho` `RDF` `SPARQL`
 
 </td>
 </tr>
@@ -53,13 +55,10 @@ ETL and Knowledge Graph (Schema.org + Wikidata) to analyze agricultural water us
 
 ## 🎯 Current Focus
 
-* **BSc Thesis:** data-driven performance models for team sports.
-* **Research:** about to start extracurricular research work in a university research group linked to a handball federation, collaborating in sports research.
-* **Learning:** predictive modeling and applied sports analytics.
+* **BSc Thesis:** evolution and forecasting of performance in elite handball players, using longitudinal match-level data from European championships.
+* **Research:** extracurricular internship starting in February 2027 in a university research group with an agreement with the European handball federation.
+* **Learning:** time series and longitudinal data modelling.
 
 ---
 
-## 📬 Contact
-
-Open to opportunities in Data Analytics, ML Applied and Decision Science, across industries and sport.  
-[LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-cano-moya-756359426/) · [jesuscanomoya@gmail.com](mailto:jesuscanomoya@gmail.com)
+Happy to talk about statistical modelling and data science.
