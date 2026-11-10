@@ -2,7 +2,7 @@
 
 <p>
   Final-year AI Engineering student at the <b>Universidad de Alicante</b><br/>
-  Statistics · Data Science · Machine Learning
+  Machine Learning · Data Science · Statistics
 </p>
 
 <p>
@@ -10,7 +10,7 @@
   <a href="mailto:jesuscanomoya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-> I'm interested in statistical modelling and rigorous model evaluation: leakage-free validation, fairness and explainability.
+> I enjoy working with real data: understanding it, modelling it and evaluating the results with rigour.
 
 ---
 
@@ -56,8 +56,8 @@ ETL pipeline that turns public agricultural data from the Valencian Community in
 ## 🎯 Current Focus
 
 * **BSc Thesis:** evolution and forecasting of performance in elite handball players, using longitudinal match-level data from European championships.
-* **Research:** extracurricular internship starting in February 2027 in a university research group with an agreement with the European handball federation.
-* **Learning:** time series and longitudinal data modelling.
+* **Research:** extracurricular internship starting in January 2027 in a university research group with an agreement with the European handball federation.
+* **Learning:** predictive modelling, model evaluation and data analysis.
 
 ---
 
